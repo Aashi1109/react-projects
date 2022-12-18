@@ -1,2 +1,2 @@
-Repository containing al my recently react projects
+Repository containing all my recently react projects
 while learning react.
