@@ -1,0 +1,35 @@
+.new-user__control {
+  margin-bottom: 1rem;
+}
+.new-user__control label {
+  font-weight: 700;
+  display: block;
+  margin: 0.2rem 0;
+}
+
+.new-user__control input {
+  border: 1px solid rgb(109, 106, 106);
+  width: 100%;
+  height: 1.5rem;
+  font: inherit;
+}
+
+.new-user__control input:focus {
+  outline: none;
+  background: #fad0ec;
+  border-color: #8b005d;
+}
+
+.new-user__control.invalid input {
+  border-color: red;
+  background: #ffd7d7;
+}
+
+.new-user__control.invalid label {
+  color: red;
+}
+
+.new-user__form {
+  padding: 1rem;
+
+}
